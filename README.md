@@ -8,18 +8,18 @@
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square"> -->
 
-![](https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/BhavyaCodes?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+![](https://img.shields.io/github/followers/Gajanan-Watt?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/Gajanan-Watt?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Gajanan-Watt&style=flat-square&color=ff69b4)
+
 
 </div>
 
-# <h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
+# <h1><a href="https://bhavya.dev">watt.dev</a> - Visit my portfolio</h1>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gajanan-Watt&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=Gajanan-Watt&show_icons=true&theme=radical&layout=compact" alt="Watt's Github Stats" height=160 />
 <p>
 
 ***
@@ -129,10 +129,10 @@
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gajanan-wattamwar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:wattamwargaj@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/GajananWattam10"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://discord.gg/Gaj166#4792"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
