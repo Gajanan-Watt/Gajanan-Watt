@@ -15,7 +15,7 @@
 
 </div>
 
-# <h1><a href="https://bhavya.dev">watt.dev</a> - Visit my portfolio</h1>
+# <h1><a href="">watt.dev</a> - Visit my portfolio</h1>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gajanan-Watt&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
