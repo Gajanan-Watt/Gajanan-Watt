@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://portfolio-b7uny52r2-wattamwargaj-gmailcom.vercel.app/">Gajanan Wattamwar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://gwatt.vercel.app/">Gajanan Wattamwar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-# <h1><a href="https://portfolio-b7uny52r2-wattamwargaj-gmailcom.vercel.app/">vercel app</a> - Visit my portfolio</h1>
+# <h1><a href="https://gwatt.vercel.app/">vercel app</a> - Visit my portfolio</h1>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gajanan-Watt&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
