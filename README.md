@@ -17,9 +17,9 @@
 
 # <h1><a href="https://gwatt.vercel.app/">vercel app</a> - Visit my portfolio</h1>
 
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gajanan-Watt&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=Gajanan-Watt&show_icons=true&theme=radical&layout=compact" alt="Watt's Github Stats" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=Gajanan-Watt&show_icons=true&theme=radical&layout=compact" alt="Watt's Github Stats" height=160 /> -->
 <p>
 
 ***
